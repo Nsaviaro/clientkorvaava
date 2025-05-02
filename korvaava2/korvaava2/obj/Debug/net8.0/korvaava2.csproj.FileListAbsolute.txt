@@ -1,0 +1,14 @@
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\korvaava2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\korvaava2.AssemblyInfoInputs.cache
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\korvaava2.AssemblyInfo.cs
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\korvaava2.csproj.CoreCompileInputs.cache
+C:\Users\nicov\source\repos\korvaava2\korvaava2\bin\Debug\net8.0\korvaava2.exe
+C:\Users\nicov\source\repos\korvaava2\korvaava2\bin\Debug\net8.0\korvaava2.deps.json
+C:\Users\nicov\source\repos\korvaava2\korvaava2\bin\Debug\net8.0\korvaava2.runtimeconfig.json
+C:\Users\nicov\source\repos\korvaava2\korvaava2\bin\Debug\net8.0\korvaava2.dll
+C:\Users\nicov\source\repos\korvaava2\korvaava2\bin\Debug\net8.0\korvaava2.pdb
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\korvaava2.dll
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\refint\korvaava2.dll
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\korvaava2.pdb
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\korvaava2.genruntimeconfig.cache
+C:\Users\nicov\source\repos\korvaava2\korvaava2\obj\Debug\net8.0\ref\korvaava2.dll
